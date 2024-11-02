@@ -1,6 +1,9 @@
 Data Cleaning Project Documentation
+
 Dataset Overview
+
 This project focuses on cleaning and standardizing a dataset containing employment-related information. The cleaned dataset includes information about job positions, including age requirements, salary offerings, company ratings, locations, establishment dates, and application processes.
+
 Columns in the Dataset:
 
 Age: Employee/position age requirement (numerical)
@@ -11,6 +14,7 @@ Established: Company establishment year
 Easy Apply: Boolean indicator for application process
 
 Data Cleaning Process
+
 1. Missing Values
 
 Identified and handled missing values in the dataset
